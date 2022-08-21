@@ -1,4 +1,6 @@
-### Hi there 👋
+iOS Developer 
+
+I enjoy solving sodukus for a living (read: programming)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaffediem&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
